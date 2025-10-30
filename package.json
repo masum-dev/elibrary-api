@@ -1,0 +1,23 @@
+{
+  "name": "elibrary-api",
+  "version": "1.0.0",
+  "description": "Ebook API project",
+  "keywords": [
+    "rest",
+    "api",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Mahbub Alam Masum <mail.masum.dev@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
